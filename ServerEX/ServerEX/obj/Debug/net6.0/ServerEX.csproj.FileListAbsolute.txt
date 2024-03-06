@@ -1,0 +1,15 @@
+D:\politechnika\4 sem\Platformy Technologiczne\PT_labs\ServerEX\ServerEX\bin\Debug\net6.0\ServerEX.exe
+D:\politechnika\4 sem\Platformy Technologiczne\PT_labs\ServerEX\ServerEX\bin\Debug\net6.0\ServerEX.deps.json
+D:\politechnika\4 sem\Platformy Technologiczne\PT_labs\ServerEX\ServerEX\bin\Debug\net6.0\ServerEX.runtimeconfig.json
+D:\politechnika\4 sem\Platformy Technologiczne\PT_labs\ServerEX\ServerEX\bin\Debug\net6.0\ServerEX.dll
+D:\politechnika\4 sem\Platformy Technologiczne\PT_labs\ServerEX\ServerEX\bin\Debug\net6.0\ServerEX.pdb
+D:\politechnika\4 sem\Platformy Technologiczne\PT_labs\ServerEX\ServerEX\obj\Debug\net6.0\ServerEX.csproj.AssemblyReference.cache
+D:\politechnika\4 sem\Platformy Technologiczne\PT_labs\ServerEX\ServerEX\obj\Debug\net6.0\ServerEX.GeneratedMSBuildEditorConfig.editorconfig
+D:\politechnika\4 sem\Platformy Technologiczne\PT_labs\ServerEX\ServerEX\obj\Debug\net6.0\ServerEX.AssemblyInfoInputs.cache
+D:\politechnika\4 sem\Platformy Technologiczne\PT_labs\ServerEX\ServerEX\obj\Debug\net6.0\ServerEX.AssemblyInfo.cs
+D:\politechnika\4 sem\Platformy Technologiczne\PT_labs\ServerEX\ServerEX\obj\Debug\net6.0\ServerEX.csproj.CoreCompileInputs.cache
+D:\politechnika\4 sem\Platformy Technologiczne\PT_labs\ServerEX\ServerEX\obj\Debug\net6.0\ServerEX.dll
+D:\politechnika\4 sem\Platformy Technologiczne\PT_labs\ServerEX\ServerEX\obj\Debug\net6.0\refint\ServerEX.dll
+D:\politechnika\4 sem\Platformy Technologiczne\PT_labs\ServerEX\ServerEX\obj\Debug\net6.0\ServerEX.pdb
+D:\politechnika\4 sem\Platformy Technologiczne\PT_labs\ServerEX\ServerEX\obj\Debug\net6.0\ServerEX.genruntimeconfig.cache
+D:\politechnika\4 sem\Platformy Technologiczne\PT_labs\ServerEX\ServerEX\obj\Debug\net6.0\ref\ServerEX.dll
